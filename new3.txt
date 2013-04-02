@@ -1,0 +1,4 @@
+Passos para se alterar e comitar um arquivo...
+
+altera o arquivo do repositorio ;
+git add nome do arquivo
