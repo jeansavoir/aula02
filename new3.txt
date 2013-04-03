@@ -1,0 +1,12 @@
+﻿Passos para se alterar e comitar um arquivo...
+
+altera o arquivo do repositorio ;
+git add nome do arquivo
+
+
+---------------------------------
+
+
+
+
+A maior força do mundo, é a que sempre está comigo..   
